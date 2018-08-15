@@ -1,0 +1,6 @@
+framework module Pods_TestAvira {
+  umbrella header "Pods-TestAvira-umbrella.h"
+
+  export *
+  module * { export * }
+}
